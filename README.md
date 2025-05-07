@@ -118,12 +118,6 @@ If you'd like to contribute to the development of GatherRound, please follow the
 4.  Push to the branch (`git push origin feature/your-feature-name`).
 5.  Open a pull request.
 
-## License
 
-[MIT](https://opensource.org/licenses/MIT)
 
-## Contact
 
-[Your Name/Organization Name]
-[Your Email Address]
-[Link to your Portfolio/Website (Optional)]
