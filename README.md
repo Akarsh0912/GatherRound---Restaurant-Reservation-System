@@ -1,8 +1,5 @@
 # GatherRound - Restaurant Reservation System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![MERN Stack](https://img.shields.io/badge/Tech-MERN%20Stack-brightgreen.svg)
-![Tailwind CSS](https://img.shields.io/badge/Style-Tailwind%20CSS-blue.svg)
 
 ## Overview
 
